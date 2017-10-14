@@ -1,0 +1,17 @@
+{
+  "name": "iownthis",
+  "version": "1.0.0",
+  "description": "dapp for å hevde at du eier noe",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "dapp"
+  ],
+  "author": "Tore Saue",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.7.1"
+  }
+}
